@@ -21,3 +21,4 @@ def call_llm(model_name, prompt_text):
     return response.choices[0].message.content.strip()
 
 
+print('Hello')

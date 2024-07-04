@@ -22,3 +22,4 @@ def call_llm(model_name, prompt_text):
 
 
 print('Hello')
+print('MTK')
